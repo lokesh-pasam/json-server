@@ -1,11 +1,45 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "shipment": [
+        {
+            "sno": "1",
+            "shipmentid": "S12345678",
+            "lastknowlocation": "Eagle Pass Texas USA",
+            "status": "closed",
+            "pickup": "1/11/2021- 23:49 CST",
+            "delivery": "1/11/2021- 23:49 CST",
+            "carrier": 6758567698,
+            "qty": "2 pallets",
+            "weight": "2 lbs",
+            "orgin": "india",
+            "carrierpro": "58258525"
+
+        },
+        {
+            "sno": "2",
+            "shipmentid": "S12345677",
+            "lastknowlocation": "Eagle Pass Texas USA",
+            "status": "closed",
+            "pickup": "1/11/2021- 23:49 CST",
+            "delivery": "1/11/2021- 23:49 CST",
+            "carrier": 45758567698,
+            "qty": "2 pallets",
+            "weight": "2 lbs",
+            "orgin": "india",
+            "carrierpro": "58258525"
+        },
+        {
+            "sno": "3",
+            "shipmentid": "S1234505678",
+            "lastknowlocation": "rtyu Pass Texas USA",
+            "status": "open",
+            "pickup": "1/11/2021- 23:49 CST",
+            "delivery": "1/11/2021- 23:49 CST",
+            "carrier": 675848798,
+            "qty": "2 pallets",
+            "weight": "2 lbs",
+            "orgin": "india",
+            "carrierpro": "58258525"
+        }
+       
+      ]
 }
